@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Data-solutionsweb/data-solutions.org/static/css/main.062dc58f.css",
+    "main.js": "/Data-solutionsweb/data-solutions.org/static/js/main.1eb4f4c0.js",
+    "static/js/787.2a93a9d2.chunk.js": "/Data-solutionsweb/data-solutions.org/static/js/787.2a93a9d2.chunk.js",
+    "index.html": "/Data-solutionsweb/data-solutions.org/index.html",
+    "main.062dc58f.css.map": "/Data-solutionsweb/data-solutions.org/static/css/main.062dc58f.css.map",
+    "main.1eb4f4c0.js.map": "/Data-solutionsweb/data-solutions.org/static/js/main.1eb4f4c0.js.map",
+    "787.2a93a9d2.chunk.js.map": "/Data-solutionsweb/data-solutions.org/static/js/787.2a93a9d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.062dc58f.css",
+    "static/js/main.1eb4f4c0.js"
+  ]
+}
