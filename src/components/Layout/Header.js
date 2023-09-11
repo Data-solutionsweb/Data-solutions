@@ -81,7 +81,7 @@ const Header = () => {
             >
               <h2 ><NavLink style={{ textDecoration: 'none', color: 'black' }} activeClassName='active' to={'/'}>Data Solutions</NavLink></h2>
             </Typography>
-            <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
+            <Box sx={{ display: { xs: 'none', sm: 'block' } }}> 
               <ul className='navigation-menu'>
                 {/* The infrastructure we provide with the best designed software for your product in the whole world.
                 Zero Trust
