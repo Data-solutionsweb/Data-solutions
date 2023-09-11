@@ -2,7 +2,7 @@ import React from 'react';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import { Box, Typography } from '@mui/material';
+import { Box } from '@mui/material';
 const Footer = () => {
   return (
     <>
